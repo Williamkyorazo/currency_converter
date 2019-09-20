@@ -3,7 +3,6 @@
 ## About this Project<br>
 The idea of the App is:
 "Convert in real time using an API the Real, Dolar and Euro currencies."
-A new Flutter project.
 
 ## Why?
 
