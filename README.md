@@ -16,6 +16,11 @@ Connect with in me at <a href="https://www.linkedin.com/in/williamsilva15/">link
   
   * Real time currency conversion *
   
+## Installers
+<br>
+If you want to test the App in the Production mode, the installers are listed below:<br>
+<a href="https://drive.google.com/file/d/1GKGVF6uYNmaIjKSYUJIDQJgKy45Gdqko/view?usp=sharing">Android .apk installer</a><br>  
+  
 ## Getting Started
 <br>
 <strong> Prerequisites </strong>
